@@ -1,4 +1,4 @@
-- hosts: 44.193.28.179
+- hosts: prod-servers
   become: yes
   tasks:
     - name: install apache
