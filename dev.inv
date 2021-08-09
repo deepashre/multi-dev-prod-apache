@@ -1,1 +1,2 @@
-44.193.28.179 ansible_user=ec2-user
+[prod-servers]
+35.171.47.96 ansible_user=ec2-user
