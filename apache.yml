@@ -1,4 +1,4 @@
-- hosts: prod-servers
+- hosts: dev-servers
   become: yes
   tasks:
     - name: install apache
